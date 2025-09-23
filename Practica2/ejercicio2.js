@@ -6,5 +6,9 @@ const productos = [
 ]
 
 // Código
+const test = productos.filter(x => x.precio > 1000)
 
-console.log(nombres); // Laptop, monitor
+const nombres = test.map(x => x.nombre)
+
+// console.log(test); 
+console.log(nombres);// Laptop, monitor

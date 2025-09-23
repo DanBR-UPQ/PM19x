@@ -7,6 +7,6 @@ const persona = {
 	}
 };
 
-// Destructuración aquí
+const {nombre, edad, direccion} = persona;
 
-// Imprime el msj
+console.log("Hola me llamo " + nombre + ", tengo " + edad + " años y vivo en " + direccion.ciudad);

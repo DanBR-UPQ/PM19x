@@ -2,4 +2,4 @@
 
 import {restar} from "./utils.js"
 
-console.log("5 - 3: " + restar(5,3))
+console.log("11 - 7: " + restar(11,7))

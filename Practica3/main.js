@@ -1,0 +1,1 @@
+// Crea un archivo principal (main.js), importa esa función y úsala ejecutar varias pruebas.
